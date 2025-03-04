@@ -1,0 +1,26 @@
+# 1) OS-specific
+.DS_Store
+
+# 2) Editor/IDE
+.vscode/
+.idea/
+
+# 3) Python junk
+__pycache__/
+*.pyc
+
+# 4) Virtual environments
+venv/
+.venv/
+
+# 5) Notebook checkpoints
+.ipynb_checkpoints/
+
+# 6) Large data or model artifacts (optional, but recommended for big files)
+models/
+train_data/
+*.pkl
+*.model
+
+*.txt
+AllSides copy/
